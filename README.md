@@ -1,11 +1,11 @@
 # Данилов Георгий Геннадьевич
 ## дата рождения: 05.03.1995
 
-Вырос там-то, учился сдеть-то
-На данный ммомент работает тут-то
+Вырос _там-то_, учился сдеть-то
+На данный ммомент **работает** тут-то
 
-ссылка на [сайт](https://github.com/netology-code/git-2-homeworks/blob/main/team-2/README.md)
+ссылка на его [сайт](https://github.com/netology-code/git-2-homeworks/blob/main/team-2/README.md)
 
-Выглядит так-то:
+>Все идет своим чередом
 
-# ![Выглядит так-то:](img/ava.jpg) ava
+![alt text](https://github.com/[DanilovGG]/[Danilov]/blob/[images]/ava.jpg?raw=true)
