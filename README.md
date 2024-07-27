@@ -8,4 +8,4 @@
 
 >Все идет своим чередом
 
-![alt text](https://github.com/[DanilovGG]/[Danilov]/blob/[images]/ava.jpg?raw=true)
+![Выгледит так-то](images/ava.jpg)
